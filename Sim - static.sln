@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sim - static", "Sim - static.csproj", "{0B0B280D-39EF-0BC5-6693-3729D1DF6074}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sim - static.Editor", "Sim - static.Editor.csproj", "{022343E9-F190-BC1E-97FC-43ABF156D8A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B0B280D-39EF-0BC5-6693-3729D1DF6074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B0B280D-39EF-0BC5-6693-3729D1DF6074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B0B280D-39EF-0BC5-6693-3729D1DF6074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B0B280D-39EF-0BC5-6693-3729D1DF6074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{022343E9-F190-BC1E-97FC-43ABF156D8A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022343E9-F190-BC1E-97FC-43ABF156D8A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022343E9-F190-BC1E-97FC-43ABF156D8A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022343E9-F190-BC1E-97FC-43ABF156D8A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

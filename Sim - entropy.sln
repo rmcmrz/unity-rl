@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sim - entropy", "Assembly-CSharp.csproj", "{DB5C1069-FFC2-70EC-6DF6-246441078443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sim - entropy", "Assembly-CSharp-Editor.csproj", "{898E6345-AD14-2041-7E30-0246B093B83D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5C1069-FFC2-70EC-6DF6-246441078443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5C1069-FFC2-70EC-6DF6-246441078443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5C1069-FFC2-70EC-6DF6-246441078443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5C1069-FFC2-70EC-6DF6-246441078443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898E6345-AD14-2041-7E30-0246B093B83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898E6345-AD14-2041-7E30-0246B093B83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898E6345-AD14-2041-7E30-0246B093B83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898E6345-AD14-2041-7E30-0246B093B83D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

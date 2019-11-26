@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Apex Examples/Apex Path/Scenes/Basic Navigation.unity
+  isLoaded: 1
+  isActive: 1
